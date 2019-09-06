@@ -5,8 +5,19 @@
 body {
   margin: 0;
   padding: 0;
+  background-image: url(./soundwave.jpg);
+  background-size: 100%;
 }
-
+h1 {
+  color: white
+}
+h2 {
+  font-size: 25px;
+  font-family: 'Times New Roman', Times, serif;
+  color: white
+}
+]
+]
 header {
   grid-area: header;
   color: white;
@@ -60,7 +71,7 @@ footer {
 }
 
 img {
-  width: 25%;
+  width: 50%;
 }
 
 .container {
